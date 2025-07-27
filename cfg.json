@@ -1,0 +1,9 @@
+{
+    "window_width": 640,
+    "window_height":480,
+    "terminal_ratio": 0.65,
+    "keyboard_ratio": 0.35,
+    "font": "./a.ttf",
+    "font_size": 20,
+    "start_cmd":""
+}
